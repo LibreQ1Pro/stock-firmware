@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="290" viewBox="0 0 860 290">
+<rect width="100%" height="100%" rx="12" fill="#ffffff"/>
+<rect x="30" y="92" width="70" height="56" rx="4" fill="#cfd3d6" stroke="#7d8287" stroke-width="2"/>
+<rect x="52" y="100" width="16" height="9" rx="1" fill="#7d8287"/>
+<rect x="52" y="131" width="16" height="9" rx="1" fill="#7d8287"/>
+<rect x="100" y="84" width="90" height="72" rx="10" fill="#e9e9e9" stroke="#9a9a9a" stroke-width="2"/>
+<text x="145.0" y="128.0" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="normal" text-anchor="middle" fill="#555">USB-A</text>
+<path d="M190 120 C 300 120, 300 120, 400 120" stroke="#9a9a9a" stroke-width="20" fill="none"/>
+<path d="M190 120 C 300 120, 300 120, 400 120" stroke="#e2e2e2" stroke-width="16" fill="none"/>
+<rect x="392" y="106" width="40" height="28" rx="6" fill="#202020"/>
+<path d="M432 120 C 480 120, 470 48, 530 48" stroke="#8e1c1c" stroke-width="10" fill="none"/>
+<path d="M432 120 C 480 120, 470 48, 530 48" stroke="#d32f2f" stroke-width="7" fill="none"/>
+<rect x="530" y="37" width="70" height="22" rx="2" fill="#111"/>
+<line x1="600" y1="48" x2="636" y2="48" stroke="#c9a227" stroke-width="5"/>
+<text x="652.0" y="54.0" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="normal" text-anchor="start" fill="#202020">red — 5V (not used)</text>
+<path d="M432 120 C 480 120, 470 96, 530 96" stroke="#000000" stroke-width="10" fill="none"/>
+<path d="M432 120 C 480 120, 470 96, 530 96" stroke="#202020" stroke-width="7" fill="none"/>
+<rect x="530" y="85" width="70" height="22" rx="2" fill="#111"/>
+<line x1="600" y1="96" x2="636" y2="96" stroke="#c9a227" stroke-width="5"/>
+<text x="652.0" y="102.0" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="normal" text-anchor="start" fill="#202020">black — GND</text>
+<path d="M432 120 C 480 120, 470 144, 530 144" stroke="#1d6b35" stroke-width="10" fill="none"/>
+<path d="M432 120 C 480 120, 470 144, 530 144" stroke="#2e9e4f" stroke-width="7" fill="none"/>
+<rect x="530" y="133" width="70" height="22" rx="2" fill="#111"/>
+<line x1="600" y1="144" x2="636" y2="144" stroke="#c9a227" stroke-width="5"/>
+<text x="652.0" y="150.0" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="normal" text-anchor="start" fill="#202020">green — D+</text>
+<path d="M432 120 C 480 120, 470 192, 530 192" stroke="#9a9a9a" stroke-width="10" fill="none"/>
+<path d="M432 120 C 480 120, 470 192, 530 192" stroke="#f2f2f2" stroke-width="7" fill="none"/>
+<rect x="530" y="181" width="70" height="22" rx="2" fill="#111"/>
+<line x1="600" y1="192" x2="636" y2="192" stroke="#c9a227" stroke-width="5"/>
+<text x="652.0" y="198.0" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="normal" text-anchor="start" fill="#202020">white — D−</text>
+<text x="30.0" y="270.0" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="normal" text-anchor="start" fill="#555">USB cable with 2.54 mm Dupont pins (plain USB, not a USB-UART adapter)</text>
+</svg>
